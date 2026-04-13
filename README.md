@@ -75,7 +75,7 @@ print(df.head())
 | abc.pub        | premium   | $1,950    | $1,950        | 102            | 50     | 3      | namecheap                                               |
 | realestate.pub | available | $51.98    | —             | —              | 40     | 11     | namecheap                                               |
 | http.pub       | resell    | —         | —             | 80             | 72     | 4      | Hosting Concepts B.V. d/b/a Registrar.eu                |
-| digital.pub    | premium   | $1,250    | $1,250        | 100            | 50     | 7      | name.com                                                |
+| digital.pub    | premium   | $1,250    | $1,250        | 100            | 49     | 7      | name.com                                                |
 | conscious.pub  | available | $47.99    | $52.99        | 89             | 38     | 9      | name.com                                                |
 | guess.pub      | resell    | —         | —             | 100            | 70     | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | big.pub        | premium   | $1,250    | $1,250        | 88             | 47     | 3      | name.com                                                |
