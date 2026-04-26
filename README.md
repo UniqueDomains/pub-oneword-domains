@@ -1,22 +1,22 @@
-# Available .PUB One-Word Domains (8,717)
+# Available .PUB One-Word Domains (11,131)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C716%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C717%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C131%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .pub one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,716-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,717 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,131 domains** on the canonical page below.
 
-**Public extract:** 8,716 rows · **Live catalog:** 8,717 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,131 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/pub`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PUB one-word domain c
 
 ### Files
 
-- `pub.csv` — public CSV extract (8,716 rows)
-- `pub.json` — public JSON extract (8,716 rows)
+- `pub.csv` — public CSV extract (1,000 rows)
+- `pub.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| track.pub      | available | $47.99    | $52.99        | 94             | 42     | 5      | name.com                                                |
-| mesh.pub       | resell    | —         | —             | 92             | 81     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| converse.pub   | premium   | $250      | $250          | 64             | 73     | 8      | name.com                                                |
-| strategy.pub   | available | $51.98    | —             | 74             | 42     | 8      | namecheap                                               |
-| cat.pub        | resell    | —         | —             | 92             | 80     | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| sex.pub        | premium   | $500      | —             | 80             | 59     | 3      | name.com                                                |
-| unity.pub      | available | $47.99    | $52.99        | 70             | 40     | 5      | name.com                                                |
-| discover.pub   | resell    | —         | —             | 66             | 75     | 8      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| abc.pub        | premium   | $1,950    | $1,950        | 102            | 50     | 3      | namecheap                                               |
-| realestate.pub | available | $51.98    | —             | —              | 40     | 11     | namecheap                                               |
-| http.pub       | resell    | —         | —             | 80             | 72     | 4      | Hosting Concepts B.V. d/b/a Registrar.eu                |
-| digital.pub    | premium   | $1,250    | $1,250        | 100            | 49     | 7      | name.com                                                |
-| conscious.pub  | available | $47.99    | $52.99        | 89             | 38     | 9      | name.com                                                |
-| guess.pub      | resell    | —         | —             | 100            | 70     | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| big.pub        | premium   | $1,250    | $1,250        | 88             | 47     | 3      | name.com                                                |
-| unify.pub      | available | $47.99    | $52.99        | 72             | 38     | 5      | name.com                                                |
-| prompt.pub     | resell    | —         | —             | 114            | 68     | 6      | DNSPod, Inc.                                            |
-| hotel.pub      | premium   | $520      | $520          | 70             | 45     | 5      | namecheap                                               |
-| garage.pub     | available | $47.99    | —             | 72             | 37     | 6      | name.com                                                |
-| domain.pub     | resell    | —         | —             | 80             | 64     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| prompts.pub            | available | $39.99    | $39.99        | 54             | 39     | 7      | namesilo                                                |
+| agents.pub             | resell    | —         | —             | 56             | 50     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| online.pub             | premium   | $500      | —             | 70             | 62     | 7      | name.com                                                |
+| payments.pub           | available | $47.99    | —             | 58             | 33     | 8      | name.com                                                |
+| sun.pub                | resell    | —         | —             | 78             | 46     | 3      | Dynadot Inc                                             |
+| Books.pub              | premium   | $1,400    | $1,400        | 52             | 49     | 5      | namecheap                                               |
+| trends.pub             | available | $47.99    | —             | 60             | 32     | 6      | name.com                                                |
+| jobs.pub               | premium   | $1,250    | —             | 79             | 42     | 4      | name.com                                                |
+| solutions.pub          | available | $47.99    | —             | 56             | 31     | 9      | name.com                                                |
+| maps.pub               | premium   | $1,250    | —             | 56             | 31     | 4      | name.com                                                |
+| rewards.pub            | available | $39.99    | $39.99        | 62             | 30     | 7      | namesilo                                                |
+| neighbourhood.pub      | premium   | $1,250    | —             | 70             | 14     | 13     | name.com                                                |
+| dogs.pub               | available | $47.99    | —             | 76             | 28     | 4      | name.com                                                |
+| DistrictofColumbia.pub | premium   | $1,400    | $1,400        | 52             | 4      | 20     | namecheap                                               |
+| commonground.pub       | available | $47.99    | —             | 74             | 28     | 13     | name.com                                                |
+| backyard.pub           | available | $47.99    | —             | 80             | 27     | 9      | name.com                                                |
+| gods.pub               | available | $47.99    | —             | 72             | 27     | 4      | name.com                                                |
+| trades.pub             | available | $39.99    | $39.99        | 71             | 26     | 6      | namesilo                                                |
+| destination.pub        | available | $47.99    | —             | 90             | 25     | 11     | name.com                                                |
+| Trex.pub               | available | $51.98    | —             | 80             | 24     | 5      | namecheap                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,716-row public sample | 8,717 live domains                               |
+| 1,000-row public sample | 11,131 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PUB One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PUB One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
