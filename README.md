@@ -1,10 +1,10 @@
-# Available .PUB One-Word Domains (11,131)
+# Available .PUB One-Word Domains (11,582)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C131%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C582%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pub one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,131 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,582 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,131 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,582 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/pub`  
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | payments.pub           | available | $47.99    | —             | 58             | 33     | 8      | name.com                                                |
 | sun.pub                | resell    | —         | —             | 78             | 46     | 3      | Dynadot Inc                                             |
 | Books.pub              | premium   | $1,400    | $1,400        | 52             | 49     | 5      | namecheap                                               |
-| trends.pub             | available | $47.99    | —             | 60             | 32     | 6      | name.com                                                |
-| jobs.pub               | premium   | $1,250    | —             | 79             | 42     | 4      | name.com                                                |
 | solutions.pub          | available | $47.99    | —             | 56             | 31     | 9      | name.com                                                |
-| maps.pub               | premium   | $1,250    | —             | 56             | 31     | 4      | name.com                                                |
+| jobs.pub               | premium   | $1,250    | —             | 79             | 42     | 4      | name.com                                                |
 | rewards.pub            | available | $39.99    | $39.99        | 62             | 30     | 7      | namesilo                                                |
-| neighbourhood.pub      | premium   | $1,250    | —             | 70             | 14     | 13     | name.com                                                |
+| maps.pub               | premium   | $1,250    | —             | 56             | 31     | 4      | name.com                                                |
 | dogs.pub               | available | $47.99    | —             | 76             | 28     | 4      | name.com                                                |
-| DistrictofColumbia.pub | premium   | $1,400    | $1,400        | 52             | 4      | 20     | namecheap                                               |
+| neighbourhood.pub      | premium   | $1,250    | —             | 70             | 14     | 13     | name.com                                                |
 | commonground.pub       | available | $47.99    | —             | 74             | 28     | 13     | name.com                                                |
+| menus.pub              | premium   | $1,107    | $1,107        | 54             | 14     | 5      | namesilo                                                |
 | backyard.pub           | available | $47.99    | —             | 80             | 27     | 9      | name.com                                                |
+| DistrictofColumbia.pub | premium   | $1,400    | $1,400        | 52             | 4      | 20     | namecheap                                               |
 | gods.pub               | available | $47.99    | —             | 72             | 27     | 4      | name.com                                                |
 | trades.pub             | available | $39.99    | $39.99        | 71             | 26     | 6      | namesilo                                                |
-| destination.pub        | available | $47.99    | —             | 90             | 25     | 11     | name.com                                                |
 | Trex.pub               | available | $51.98    | —             | 80             | 24     | 5      | namecheap                                               |
+| whats.pub              | available | $39.99    | $39.99        | 58             | 24     | 5      | namesilo                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,131 live domains                              |
+| 1,000-row public sample | 11,582 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PUB One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PUB One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
