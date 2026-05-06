@@ -69,7 +69,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0610f6bc-b80f-46c3-9bb7-5bf3782d39e5,appraisals.pub,available,39.99,39.99,56,10,10,namesilo,,
 0628ef5c-3f02-42c7-9690-e13ce118dfcb,desires.pub,available,47.99,,72,9,7,name.com,,
 065aa60d-bdce-49ce-92fa-1027189d1140,goby.pub,available,47.99,,74,9,5,name.com,,
-0699fbbe-5f75-44ed-937f-51ad41428362,sun.pub,resell,,,78,46,3,Dynadot Inc,11/02/2015 09:33,11/02/2027 09:33
+0699fbbe-5f75-44ed-937f-51ad41428362,sun.pub,resell,,,78,44,3,Dynadot Inc,11/02/2015 09:33,11/02/2027 09:33
 06a504ae-d8fc-4ccf-87e6-b0865f26fa51,amplifies.pub,available,47.99,,56,2,9,name.com,,
 06b8768e-708f-4072-81a4-ed9cdaf6af10,estateduty.pub,available,47.99,,50,1,11,name.com,,
 06bc8926-c6cd-4e89-ba17-c034acc5ac9b,chickenliver.pub,available,47.99,,64,1,13,name.com,,
