@@ -261,6 +261,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 16dc646c-f60e-4351-8056-622066a48d3e,gingerbread.pub,available,47.99,,80,10,11,name.com,,
 16e5f985-23a4-404f-a5d7-3884d53a1cf8,gooutonalimb.pub,available,47.99,,60,1,16,name.com,,
 16f4c55a-6b32-4011-89b5-eaa338b6fe7a,pictorials.pub,available,39.99,39.99,56,2,10,namesilo,,
+177e6768-bcbe-47a6-87fd-6f1d0e814638,creating.pub,premium,,,80,12,8,,,
 1782440f-212e-4fde-b148-f970ec83c44a,gettheballrolling.pub,available,47.99,,72,1,20,name.com,,
 17a64a89-ea7a-4b79-b83d-b868a2b93eeb,movemountains.pub,available,47.99,,72,4,14,name.com,,
 17cfa23a-4efb-424f-bb28-c5f1a932e48e,clipstrips.pub,available,39.99,39.99,56,3,11,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a91c709-3612-4426-81d9-e9050f83b38a,explained.pub,available,47.99,,50,10,9,name.com,,
 5a9916d1-c1d9-468d-bea3-5f8b85b64528,timestamps.pub,available,39.99,39.99,61,6,10,namesilo,,
 5a9ace22-c7c6-4498-9b68-ba7834d256de,IamHIVpositive.pub,available,51.98,,44,1,17,namecheap,,
-5aacb1a2-4320-4aa0-8af4-bbc3cf7ab349,pomegranates.pub,available,39.99,39.99,60,4,12,namesilo,,
