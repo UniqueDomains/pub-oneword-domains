@@ -1,10 +1,10 @@
-# Available .PUB One-Word Domains (11,592)
+# Available .PUB One-Word Domains (11,596)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C592%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C596%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pub one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,592 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,596 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,592 domains · **Median ask:** $62.99 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,596 domains · **Median ask:** $60.11 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/pub`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| awe.pub   | available | $47.99    | —             | high           | low    | 3      | name.com                                                |
-| cat.pub   | resell    | —         | —             | high           | high   | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| gay.pub   | premium   | $500      | —             | high           | medium | 3      | name.com                                                |
-| beg.pub   | available | $39.99    | $39.99        | medium         | low    | 3      | namesilo                                                |
-| fly.pub   | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| old.pub   | premium   | $500      | —             | high           | low    | 3      | name.com                                                |
-| dew.pub   | available | $39.99    | $39.99        | medium         | low    | 3      | namesilo                                                |
-| lab.pub   | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| menu.pub  | premium   | $500      | —             | high           | low    | 4      | name.com                                                |
-| due.pub   | available | $47.99    | —             | high           | low    | 3      | name.com                                                |
-| cool.pub  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| ohio.pub  | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                                                |
-| kgb.pub   | available | $39.99    | $39.99        | high           | low    | 3      | namesilo                                                |
-| home.pub  | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| step.pub  | premium   | $39.99    | $39.99        | high           | low    | 4      | namesilo                                                |
-| lap.pub   | available | $39.99    | $39.99        | high           | low    | 3      | namesilo                                                |
-| king.pub  | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                            |
-| guide.pub | premium   | $500      | —             | high           | low    | 5      | name.com                                                |
-| lay.pub   | available | $39.99    | $39.99        | medium         | low    | 3      | namesilo                                                |
-| lake.pub  | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                            |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| correct.pub | available | $47.99    | $52.99        | high           | low    | 7      | name.com                                                |
+| nothing.pub | available | $39.99    | $39.99        | high           | low    | 7      | namesilo                                                |
+| abo.pub     | available | $39.99    | $39.99        | low            | low    | 3      | namesilo                                                |
+| cat.pub     | resell    | —         | —             | high           | high   | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| gay.pub     | premium   | $500      | —             | high           | medium | 3      | name.com                                                |
+| awe.pub     | available | $47.99    | —             | high           | low    | 3      | name.com                                                |
+| fly.pub     | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| old.pub     | premium   | $500      | —             | high           | low    | 3      | name.com                                                |
+| beg.pub     | available | $39.99    | $39.99        | medium         | low    | 3      | namesilo                                                |
+| lab.pub     | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| menu.pub    | premium   | $500      | —             | high           | low    | 4      | name.com                                                |
+| dew.pub     | available | $39.99    | $39.99        | medium         | low    | 3      | namesilo                                                |
+| cool.pub    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| ohio.pub    | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                                                |
+| due.pub     | available | $47.99    | —             | high           | low    | 3      | name.com                                                |
+| home.pub    | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| step.pub    | premium   | $39.99    | $39.99        | high           | low    | 4      | namesilo                                                |
+| kgb.pub     | available | $39.99    | $39.99        | high           | low    | 3      | namesilo                                                |
+| king.pub    | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                            |
+| guide.pub   | premium   | $500      | —             | high           | low    | 5      | name.com                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,592 live domains                        |
+| 1,000-row public sample | 11,596 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PUB One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PUB One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
