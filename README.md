@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pub one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,506 domains · **Median ask:** $52.24 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/pub`
 **Best for:** founders, investors, studios
 
@@ -66,8 +66,6 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
 | correct.pub | available | $47.99    | $52.99        | high           | low    | 7      | name.com                                                |
 | nothing.pub | available | $39.99    | $39.99        | high           | low    | 7      | namesilo                                                |
-| soft.pub    | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                            |
-| ground.pub  | available | $39.99    | $39.99        | high           | low    | 6      | namesilo                                                |
 | abo.pub     | available | $39.99    | $39.99        | low            | low    | 3      | namesilo                                                |
 | cat.pub     | resell    | —         | —             | high           | high   | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | gay.pub     | premium   | $500      | —             | high           | medium | 3      | name.com                                                |
@@ -84,6 +82,8 @@ print(df.head())
 | home.pub    | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | step.pub    | premium   | $39.99    | $39.99        | high           | low    | 4      | namesilo                                                |
 | kgb.pub     | available | $39.99    | $39.99        | high           | low    | 3      | namesilo                                                |
+| king.pub    | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                            |
+| guide.pub   | premium   | $500      | —             | high           | low    | 5      | name.com                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PUB One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PUB One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
